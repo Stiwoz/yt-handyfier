@@ -1,0 +1,27 @@
+#playlist-hide.playlist-hide {
+  background-image: url('http://i.imgur.com/i527baW.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 26px;
+  height: 28px;
+  background-color: transparent;
+  float: right;
+  opacity: .7;
+  height: 25px;
+  margin-top: 2px;
+  margin-left: 3px;
+}
+#playlist-show.playlist-show {
+  background-image: url('http://i.imgur.com/BZezgIg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 32px;
+  height: 32px;
+  background-color: rgba(88,88,88,.8);
+  position: absolute;
+  top: 60px;
+  right: 60px;
+  display: none;
+}
